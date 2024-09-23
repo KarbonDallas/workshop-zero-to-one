@@ -1,0 +1,15 @@
+{
+  "name": "workshop-zero-to-one",
+  "version": "1.0.0",
+  "description": "Begin building with Livepeer AI",
+  "main": "src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Unidentified Contributor",
+  "license": "ISC",
+  "dependencies": {
+    "@livepeer/ai": "^0.3.4"
+  }
+}
